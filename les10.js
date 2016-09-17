@@ -34,7 +34,7 @@ f(1, 2);
  var end = new Date;
  console.log("Цикл занял: " + (end - start) + "ms"); // преобразуется к числу
  
- console.log("File exsit in version control!");
+ console.log("File exsit in version control git 1.9.1!");
  
  function f(x, y) {
  console.log(arguments.length); 
